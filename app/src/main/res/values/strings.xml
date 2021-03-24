@@ -1,0 +1,12 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">FormActivity</string>
+
+    <string-array name="prodi" android:textColor="@color/white">
+        <item>--Pilih--</item>
+        <item>--Manajemen Informatika--</item>
+        <item>--Teknologi Informasi--</item>
+        <item>--Teknik Komputer--</item>
+        <item>--Ilmu Komunikasi--</item>
+
+    </string-array>
+</resources>
